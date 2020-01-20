@@ -1,0 +1,70 @@
+<resources>
+    <string name="NoSupport">Bluetooth is not Supported.</string>
+    <string name="NoWorking">Bluetooth is not Working.</string>
+    <string name="app_name">NGame-卒業制作</string>
+    <string name="Top_TEXT">Nゲーム</string>
+    <string name="text">懐かしい手遊びを思い出せ！！</string>
+    <string name="text2">ゲームを選んでください！</string>
+    <string name="text2_2">ゲームを選んでください！</string>
+    <string name="Mode_Text">ゲームモードを選んでください！</string>
+    <string name="button">モード＆ゲーム選択へ</string>
+    <string name="Undobt">戻る</string>
+    <string name="option_bt">設定</string>
+    <string name="results_bt">戦績</string>
+    <string name="sGame1_1s">じゃんけん</string>
+    <string name="sGame1">指スマ</string>
+    <string name="sGame2">軍艦じゃんけん</string>
+    <string name="sGame3">わりばし</string>
+    <string name="sGame4">CHARGE ＆ ATTACK</string>
+    <string name="sGame1_2">指スマ</string>
+    <string name="sGame2_2">軍艦じゃんけん</string>
+    <string name="sGame3_2">わりばし</string>
+    <string name="sGame4_2">CHARGE ＆ ATTACK</string>
+    <string name="Modebt1">ON LINE</string>
+    <string name="Modebt2">OFF LINE</string>
+    <string name="server">サーバー</string>
+    <string name="crient">クライアント</string>
+    <string name="title_activity_game__option">Settings</string>
+    <string name="NoGame">--未実装(No GAME)--</string>
+    <string name="Redo">ゲームモード選択へ</string>
+    <string name="View"> </string>
+    <string name="bluetooth">オフラインで開始します</string>
+
+    <!-- Game1 -->
+    <string name="OK">--決定--</string>
+    <string name="reset">--RESET--</string>
+    <string name="enemy">勝ち数</string>
+    <string name="wewin">勝ち数</string>
+    
+    
+    <!-- Game2  -->
+
+    <!-- Game3  -->
+
+    <!-- Game4  -->
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_app__settings">Settings</string>
+
+    <string-array name="list">
+        <item>サーバー</item>
+        <item>クライアント</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

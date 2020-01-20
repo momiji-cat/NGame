@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='NGame-卒業制作'
